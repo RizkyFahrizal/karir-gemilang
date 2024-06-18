@@ -1,43 +1,4 @@
-# Laravel Job Searching and Postings Application
-YourJob is a powerful and user-friendly Laravel application for searching for jobs and posting vacancies too. This application is designed to help job seekers find relevant job opportunities quickly and efficiently. With its intuitive interface, responsive/mobile first design, and advanced search capabilities, YourJob makes the job search process a breeze.
-
-Frontend technologies used: Tailwind CSS (Responsive Design) and Alpine.js library.
-
-## Screenshots:
-### Homepage:
-![YourJob-homepage-1](https://github.com/AhmedYahyaE/laravel-job-search-app/assets/118033266/490a6643-c017-487d-8e04-dbedef494339)
-
-![YourJob-homepage-2](https://github.com/AhmedYahyaE/laravel-job-search-app/assets/118033266/2c2cbf4e-95cf-4697-b185-7feacdfd2256)
-
-### Login Page:
-![YourJob-login](https://github.com/AhmedYahyaE/laravel-job-search-app/assets/118033266/9e1d40ba-bd64-43a4-b228-3ed137fa5ddd)
-
-### Create a Job Listing Page:
-![YourJob-create-listing](https://github.com/AhmedYahyaE/laravel-job-search-app/assets/118033266/3a908b85-5e20-4c6f-9d99-2f5c5e32eefd)
-
-### User Job Listings Management:
-![YourJob-manage-listings-page](https://github.com/AhmedYahyaE/laravel-job-search-app/assets/118033266/9268b566-8286-4401-8d56-204c0b80f98f)
-
-## Features:
-1- Implemented Social Login (Google OAuth provider) using Laravel Socialite package.
-
-2- Using a Scope Filter (Query Scopes) for both the Search Bar Form and Website Tags implementation.
-
-3- Using Blade Components and Component Slots.
-
-4- Using Database Seeders and Model Factories.
-
-5 - Using Laravel's '[storage](storage)' directory (public disk and local driver) for storing user-uploaded images (instead of the regular '[public](public)' directory). Then, using a Symbolic Link between the '[storage/app/public](storage/app/public)' directory and '[public/storage](public/storage)' directory to display images throughout the application.
-
-6- Using Route Model Binding.
-
-7- Using Alpine.js library for creating Session Flash Messages that disappears after a specified duration.
-
-8- Using Tailwind CSS for creating a completely responsive/mobile first design.
-
-9- Eloquent Pagination.
-
-10-  User Registration, Authentication and Authorization.
+# Laravel Job Searching and Postings Application Karir Gemilang
 
 ## Application Routes:
 All the application routes are defined in the [web.php](/routes/web.php) file.
@@ -62,8 +23,3 @@ All the application routes are defined in the [web.php](/routes/web.php) file.
 > Email: **test@test.com**, Password: **123456**
 
 > Email: **yasser@gmail.com**, Password: **123456**
-    
-> Email: **test2@test.com**, Password: **123456**
-
-## Contribution:
-Contributions to my YourJob Laravel application are most welcome! If you find any issues or have suggestions for improvements or want to add new features, please open an issue or submit a pull request.
