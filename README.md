@@ -5,7 +5,7 @@ All the application routes are defined in the [web.php](/routes/web.php) file.
 
 ## Installation & Configuration:
 
-1- Open your terminal, and use the '***git clone https://github.com/AhmedYahyaE/laravel-job-search-app.git***' command, or just download the ZIP project.
+1- Open your terminal, and use the '***git clone https://github.com/RizkyFahrizal/karir-gemilang.git***' command, or just download the ZIP project.
 
 2- Navigate/Change into (using the **cd** command) to the project root directory, then run the '***composer install***' command.
 
